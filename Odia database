@@ -1,0 +1,6 @@
+The Odia database name as SITB-OSED is created by the Silicon Institute of Technology, Bhubaneswar, India. The database contains 12 professional speakers 
+(6 males and 6 females) who participated in data recording. In total, the database contains 7317 utterances in different dialects of the Odia language. 
+The SITB-OSED database comprises the basics of six emotions: 1) Anger 2) Surprise 3) Happy 4) Sadness 5) Disgust 6) Fear. The duration of the utterances 
+was vary between 3.5s to 8s. All the samples were recorded in .wav format and 16-bit quantization rate with a sample rate of 22050 Hz.
+
+We are releasing the database very soon!!
